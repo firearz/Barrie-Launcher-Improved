@@ -24,7 +24,7 @@
 
 ---
 
-## 📦 Installation
+## 📦 Installation from terminal/cmd.
 
 Clone the repo:
 
