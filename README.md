@@ -41,6 +41,5 @@ pyinstaller --noconfirm --onefile --windowed launcher/main.py
 
 Pull requests are welcome!
 
-## 📄 License
+This project is open-sourced under the [MIT License](LICENSE).
 
-MIT License
