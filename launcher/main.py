@@ -7,7 +7,7 @@ from PySide6.QtWidgets import (
 )
 from PySide6.QtGui import QPixmap, QIcon
 from PySide6.QtCore import Qt, QTimer
-from launcher import get_available_versions, launch_minecraft  # Your custom logic
+from launcher.launcher import get_available_versions, launch_minecraft  # Your custom logic
 
 class BarrieLauncher(QWidget):
     def __init__(self):
