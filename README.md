@@ -27,14 +27,14 @@
 git clone https://github.com/firearz/barrie-launcher.git
 cd barrie-launcher
 pip install -r requirements.txt
-python files/main.py
+python launcher/main.py
 ```
 
 ## 🧪 Build as EXE (Windows)
 
 ```bash
 pip install pyinstaller
-pyinstaller --noconfirm --onefile --windowed files/main.py
+pyinstaller --noconfirm --onefile --windowed launcher/main.py
 ```
 
 ## 🛠️ Contributing
