@@ -33,7 +33,7 @@ python main.py
 ## 🧪 Build as EXE (Windows)
 
 ```bash
-pyinstaller --onefile --noconsole --icon=logo.ico main.py --add-data "images;images"
+pyinstaller --onefile --noconsole --icon=logo.ico main.py"
 
 ```
 
